@@ -97,11 +97,12 @@
 ##
 
 ### 💼 Professional Experience
-- **Software Engineering at BlackNGreen, December 2023 - Present**
-  <!-- - Brief description of your responsibilities and achievements. -->
+- **Software Engineering at BlackNGreen, December 2023 - February 2024**
+  - Formulated and developed 20+ AI avatars using generative models, enhancing UI and boosting user engagement by 10%.
+  - Leveraged multimodal image search with embeddings and vector databases, improving data retrieval efficiency by 15%.
+  - Mastered GPT and LLMs, including development and 3 optimisation strategies: fine-tuning, RAG, and hybrid approaches.
 
-
-- **Software Engineer Intern at BlackNGreen, July 2023 - September 2**
+- **Software Engineer Intern at BlackNGreen, July 2023 - September 2023**
   - Integrated 3+ essential components for an upcoming AI assistant using JavaScript XML, TypeScript, and MUI.
   - Enhanced usability and interaction efficiency by implementing 2 key features (microphone and file upload), resulting in better user engagement.
   - Improved team efficiency and decision-making through active participation in 2 project meetings every week.
