@@ -92,7 +92,7 @@
 
 ### 📚 Education
 **MEng Computer Science and Software Engineering, University of Birmingham**
-- Upper-Second Class Honours (2:1)
+- First Class Honours (1:1)
 
 ##
 
