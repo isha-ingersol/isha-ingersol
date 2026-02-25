@@ -97,15 +97,13 @@
 ##
 
 ### 💼 Professional Experience
-- **Software Engineering at BlackNGreen, December 2023 - February 2024**
-  - Formulated and developed 20+ AI avatars using generative models, enhancing UI and boosting user engagement by 10%.
-  - Leveraged multimodal image search with embeddings and vector databases, improving data retrieval efficiency by 15%.
-  - Mastered GPT and LLMs, including development and 3 optimisation strategies: fine-tuning, RAG, and hybrid approaches.
+- **AI/ML Intern at Aikyam, October 2025 - Present**
+  - Engineered cloud-based voice assistant improving response time by 60% (1s to 0.4s) via text chunking and streaming TTS.
+  - Optimised image generation for 15+ brand campaigns, reducing production time by 83% with cross-functional collaboration.
 
-- **Software Engineer Intern at BlackNGreen, July 2023 - September 2023**
-  - Integrated 3+ essential components for an upcoming AI assistant using JavaScript XML, TypeScript, and MUI.
-  - Enhanced usability and interaction efficiency by implementing 2 key features (microphone and file upload), resulting in better user engagement.
-  - Improved team efficiency and decision-making through active participation in 2 project meetings every week.
+- **Software Engineer Intern at blackNgreen, July 2023 - February 2024**
+  - Designed frontend for AI multi-persona chatbot, implementing login, chat, voice I/O, and file upload features in TypeScript.
+  - Prototyped RAG, fine-tuning, and hybrid techniques via Hugging Face to support multi-persona conversational capabilities.
 
 ##
 
